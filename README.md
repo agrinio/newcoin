@@ -1,0 +1,4 @@
+newcoin
+=======
+
+Cryptocurrency coin
